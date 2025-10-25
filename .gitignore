@@ -7,7 +7,7 @@ figs/frames/*
 figs/plots/*
 figs/thresh/*
 figs/Tracked Points/*
-figs/unfilterdunfiltered contour/*
+figs/unfiltered contour/*
 !figs/contour/.gitkeep
 !figs/frames/.gitkeep
 !figs/plots/.gitkeep
