@@ -1,0 +1,20 @@
+videos/Original Videos/*
+videos/Tracked Videos/*
+!videos/Original Videos/.gitkeep
+!videos/Tracked Videos/.gitkeep
+figs/contour/*
+figs/frames/*
+figs/plots/*
+figs/thresh/*
+figs/Tracked Points/*
+figs/unfilterdunfiltered contour/*
+!figs/contour/.gitkeep
+!figs/frames/.gitkeep
+!figs/plots/.gitkeep
+!figs/thresh/.gitkeep
+!figs/Tracked Points/.gitkeep
+!figs/unfiltered contour/.gitkeep
+CSV/filtered_csv/*
+CSV/Unfiltered/*
+!CSV/filtered_csv/.gitkeep
+!CSV/Unfiltered/.gitkeep
